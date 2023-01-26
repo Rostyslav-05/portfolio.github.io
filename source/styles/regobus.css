@@ -1,0 +1,29 @@
+body {
+
+    background-color: grey;
+}
+
+
+.reg {
+
+    display: block;
+    text-align: center;
+    margin-top: 7em;
+}
+
+
+img {
+
+    width: 20em;
+    border-radius: 8em;
+    border-style: solid;
+    border-color: pink;
+}
+
+
+.reg-text {
+
+    font-size: 4em;
+    margin-top: 0;
+    font-weight: bold;
+}
